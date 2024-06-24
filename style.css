@@ -1,0 +1,25 @@
+.home {
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: red;
+    font-size: x-large;
+
+
+}
+
+body {
+    background-color: grey;
+}
+
+.container {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    color: brown;
+    font-size: larger;
+}
+
+.results {}
